@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.row{
+    content: "";
+    clear: both;
+    display: table;
+}
